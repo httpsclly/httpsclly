@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, NoSQL.**
 
-- 📫 How to reach me 
+- 📫 How to reach me [here](https://discordapp.com/users/674012150410379264)
 
 - ⚡ Language **Portuguese.**
 
