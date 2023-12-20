@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFFC7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcelly+Brito;I'm+20+years+old;I'm+from+Brazil;I'm+studying+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=httpsclly&label=Profile%20views&color=FAFFC7&style=flat" alt="httpsclly" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=httpsclly&label=Profile%20views&color=0e75b6&style=flat" alt="httpsclly" /> </p>
 
 - 🌱 I’m currently learning **JavaScript, NoSQL.**
 
