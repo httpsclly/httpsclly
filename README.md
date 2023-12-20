@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Marcelly+Brito!;Tenho+20+Anos;Moro+no+Brasil;Atualmente,+estou+me+graduando+em+ADS!;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcelly+Brito;I'm+20+years+old;I'm+from+Brazil;I'm+studying+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=httpsclly&label=Profile%20views&color=F7DF1E&style=flat" alt="httpsclly" /> </p>
 
