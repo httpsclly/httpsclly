@@ -6,7 +6,7 @@
 
 - 📫 How to reach me [here](https://discordapp.com/users/674012150410379264)
 
-- ⚡ Language **Portuguese.**
+- ⚡  **Fluent in Portuguese with basic knowledge of Spanish.**
  <br>
   <br>
 
