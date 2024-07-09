@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=312D2C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcelly+Brito;I'm+20+years+old;I'm+from+Brazil;I'm+studying+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
  <br>
   <br>
-- 🌱 I’m currently learning **PHP, SQL.** 
+- 🌱 I’m currently learning **React.** 
 
 - 📫 How to reach me [here](https://discordapp.com/users/674012150410379264)
 
