@@ -1,7 +1,8 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=312D2C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcelly+Brito;I'm+20+years+old;I'm+from+Brazil;I'm+studying+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<p><strong>Olá, Seja Bem-Vindo(a)!<br></strong>
+Me chamo Marcelly Brito e estou no 4° período de Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e sempre me esforço para encontrar soluções criativas e inovadoras para os desafios que encontro. Tenho um forte interesse em desenvolvimento contínuo, buscando aprender novas linguagens e frameworks para me manter atualizada no campo em constante evolução da programação. Estou empenhada em desenvolver uma carreira sólida na área de análise e desenvolvimento de sistemas. :) </p>
  <br>
-  <br>
+ 
 - 🌱 I’m currently learning **React.** 
 
 - 📫 How to reach me [here](https://discordapp.com/users/674012150410379264)
