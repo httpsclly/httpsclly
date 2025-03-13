@@ -1,6 +1,6 @@
 
 <p><strong>Olá, Seja Bem-Vindo(a)!<br></strong>
-Me chamo Marcelly Brito e estou no 4° período de Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e sempre me esforço para encontrar soluções criativas e inovadoras para os desafios que encontro. Tenho um forte interesse em desenvolvimento contínuo, buscando aprender novas linguagens e frameworks para me manter atualizada no campo em constante evolução da programação. Estou empenhada em desenvolver uma carreira sólida na área de análise e desenvolvimento de sistemas. :) </p>
+Me chamo Marcelly Brito e estou no 5° período de Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e sempre me esforço para encontrar soluções criativas e inovadoras para os desafios que encontro. Tenho um forte interesse em desenvolvimento contínuo, buscando aprender novas linguagens e frameworks para me manter atualizada no campo em constante evolução da programação. Estou empenhada em desenvolver uma carreira sólida na área de análise e desenvolvimento de sistemas. :) </p>
  <br>
  
 - 🌱 I’m currently learning **React.** 
